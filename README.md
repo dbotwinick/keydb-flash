@@ -15,5 +15,4 @@ Vanilla Container: https://hub.docker.com/r/eqalpha/keydb
 
 Currently Supported Versions:
 
-- 6.3.3
 - 6.3.4
